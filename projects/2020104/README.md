@@ -5,7 +5,7 @@
 | Εβδομάδα | Παραδοτέα | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
 | 1 |[Εισαγωγή](https://github.com/p20poli/hci/edit/2020104/projects/2020104/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) |[Εισαγωγή](https://github.com/courses-ionio/help/discussions/834) | |
-| 2 | Άσκηση γραμμής εντολών (linux install) | | |
+| 2 | Άσκηση γραμμής εντολών (linux install) | [Εκτέλεση εντολών](https://github.com/courses-ionio/help/discussions/1058) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |

@@ -1,6 +1,7 @@
 #### ΟΝΟΜΑΤΕΠΩΝΥΜΟ:ΣΠΥΡΙΔΩΝ ΠΟΛΙΤΗΣ 
 #### ΑΜ:Π2020104
 #### Github Profile:[P20poli](https://github.com/p20poli)
+#### Netlify Site:[Site](https://app.netlify.com/sites/melodic-malasada-eef077/overview)
 
 | Εβδομάδα | Παραδοτέα | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |

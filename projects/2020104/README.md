@@ -7,9 +7,9 @@
 | --- | --- | --- | --- |
 | 1 |[Εισαγωγή](https://github.com/p20poli/hci/edit/2020104/projects/2020104/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) |[Εισαγωγή](https://github.com/courses-ionio/help/discussions/834) | |
 | 2 | [Άσκηση γραμμής εντολών (linux install)](https://github.com/p20poli/hci/edit/2020104/projects/2020104/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-linux-install) | [Εκτέλεση εντολών](https://github.com/courses-ionio/help/discussions/1058) | |
-| 3 | [Συμμετοχικό περιεχόμενο A1](https://asciinema.org/a/jPaAUMbHAUillnYMyqOb9PhXM) |[Συμμετοχικό περιεχόμενο](https://github.com/courses-ionio/help/discussions/1239) | |
-| 4 | [Άσκηση γραμμής εντολών (warm up cli)](https://asciinema.org/a/jPaAUMbHAUillnYMyqOb9PhXM) |[Weather check](https://github.com/courses-ionio/help/discussions/1284) | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 3 | [Συμμετοχικό περιεχόμενο A1](https://asciinema.org/a/jPaAUMbHAUillnYMyqOb9PhXM) |[Συμμετοχικό περιεχόμενο discussions](https://github.com/courses-ionio/help/discussions/1239) | |
+| 4 | [Άσκηση γραμμής εντολών(warm up cli)](https://asciinema.org/a/jPaAUMbHAUillnYMyqOb9PhXM) |[Weather check](https://github.com/courses-ionio/help/discussions/1284) | |
+| 5 | [Συμμετοχικό περιεχόμενο A2](https://github.com/p20poli/hci/edit/2020104/projects/2020104/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a2) | [Συμμετοχικό περιεχόμενο discussions](https://github.com/courses-ionio/help/discussions/1434)| |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
@@ -28,8 +28,11 @@
 
 # Συμμετοχικό περιεχόμενο A1
 
-Για την υπολοίηση αυτού του παραδοτέου έπελεξα να ασχοληθώ με κινητές παιχνιδομηχανές και διάλεξα το Game Boy και το Nintendo DS και έτσι βρήκα δύο φωτογραφίες, μια για το καθένα όπου ανέβασασα στα images και μια για το καθένα που τροποποίησα έτσι ώστε να έχει πλάτος 160 pixels, έπειτα  έφτιαξα το gallery για το κάθε ένα και έκανα pull request στην ομάδα. 
+Για την υπολοίηση αυτού του παραδοτέου έπελεξα να ασχοληθώ με κινητές παιχνιδομηχανές και διάλεξα το Counter Strike και το Nintendo DS και έτσι βρήκα δύο φωτογραφίες, μια για το καθένα όπου ανέβασασα στα images και μια για το καθένα που τροποποίησα έτσι ώστε να έχει πλάτος 160 pixels, έπειτα  έφτιαξα το gallery για το κάθε ένα και έκανα pull request στην ομάδα. 
 
 # Άσκηση γραμμής εντολών (warm up cli)
 
 Για την υλοποίηση αυτού του παραδοτέου σαν warm up έπελεξα να κάνω fetch τον weather για την Κέρκυρα και το Λονδίνο με την curl wttr.in για τον τοπικό καιρό και curl wttr.in/London για το Λονδίνο, όπως φαίνεται και στο [βίντεο](https://asciinema.org/a/jPaAUMbHAUillnYMyqOb9PhXM) που ανέβασα στο Asciinema.
+
+# Συμμετοχικό περιεχόμενο A2
+Για την υλοποιήση αυτού του παραδοτέου χρησιμοποιήσα τα galleries μου από το Α1 και έφτιαξα ένα δικό μου slide για τα hanheld consoles και πρόσθεσα το gallery για το Nintendo DS. Επίσης χρησιμοποίησα το έτοιμο timeline των videogames και πρόσθεσα το gallery μου για το Counter Strike.

@@ -1,4 +1,4 @@
-#### Ονοματεπώνυμο: Σπυρίδως Πολίτης
+#### Ονοματεπώνυμο: Σπυρίδων Πολίτης
 #### ΑΜ: Π2020104
 #### Github Profile: [P20poli](https://github.com/p20poli)
 #### Netlify Site: [Site](https://melodic-malasada-eef077.netlify.app/)

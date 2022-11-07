@@ -63,3 +63,7 @@
 
 # Συμμετοχικό περιεχόμενο A2
 Για την υλοποιήση αυτού του παραδοτέου χρησιμοποιήσα τα galleries μου από το Α1 και έφτιαξα ένα δικό μου slide για τα hanheld consoles και πρόσθεσα το gallery για το Nintendo DS. Επίσης χρησιμοποίησα το έτοιμο timeline των videogames και πρόσθεσα το gallery μου για το Counter Strike.
+
+### Netlify
+- [Slides](https://melodic-malasada-eef077.netlify.app/slides/consoles/)
+- [Timeline](https://melodic-malasada-eef077.netlify.app/timeline/videogames/)

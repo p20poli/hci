@@ -29,12 +29,30 @@
 
 Για την υπολοίηση αυτού του παραδοτέου, χρείαστηκαν δύο usb, το πρωτο usb για την εγκατάστη του iso και το δεύτερο έτσι ώστε να έχουμε ένα καθαρό μέσω αποθηκευτικού χώρο για να εγκαταστήσουμε το λογισμικό μας(Archlinux). Στην αρχή με την βοήθεια πάντα του [installation guide](https://wiki.archlinux.org/title/installation_guide) έγινε η σύνδεση στο διαδίκτυο και στην συνέχεια με την βοήθεια του reflector επιλέχτηκε ο κατάλληλος server.Στην συνέχεια φτιάχτηκαν τα particions και τα mounts. Αμέσως μετά έγινε ορισμός του time-zone και έγινε η εγκατάσταση βασικών πακέτων όπως το grub. Έπειτα έγινε η δημιουργεία χρηστών. Έτσι ολοκληρώθηκε η εγκατάσταση στο δεύτερο usb. Όταν συνδεθήκα στα ArchLinux έκανα εγκατάσταση κάποιον drivers έτσι ώστε να είναι εφικτή η σύνδεση του usb και σε άλλους υπολογιστές και τέλος έγινε η εγκατάσταση του asciinema και η σύνδεση με τον λογαριασμό μου σε αυτό. Τέλος έκανα χρήση της εντολής Neofetch και Journalctl -b | less.Όπως μπορούμε να δούμε και στο βίντεο παρακάτω:
 
+Το neofetch χρησιμοποιείται για να δείξει πληροφορίες για το σύστημα μας ενώ το journalctl είναι μία εντολή η οποία δείχνει τις διαστηριότητες του journald, οπού είναι μία υπηρεσία σύνδεσης στο σύστημα.
+
+### Οδηγίες για την χρήση του neofetch
+
+- Στην αρχή με την βοήθεια του pacman κατεβάζουμε το neofetch
+
+``sudo pacman -S neofetch``
+
+- Τέλος τρέχουμε την εντολή
+
+`` neofetch ``
+
+### Οδηγίες για την χρήση της εντολής journalctl
+
+- Για να εκτελέσουμε την εντολή κανουμε ``journalctl -b | less `` όπου το `` -b `` χρησιμοποιείται για να μην καταγράψη όλα τα δεδομένα που φαίνονται
+
 ### Warm ups
 - [Neofetch και Jounalctl](https://asciinema.org/a/l12hHcRl2uGWDMPsfyHWqxTsc)
 
 ### Πηγες
 - [Arch Linux](https://wiki.archlinux.org/)
 - [Arch Linux on a USB](https://www.youtube.com/watch?v=yaThYGr37DI&t=1241s)
+- [Neofetch](https://archlinux.org/packages/community/any/neofetch/)
+- [Journalctl](https://www.loggly.com/ultimate-guide/using-journalctl/)
 
 # Συμμετοχικό περιεχόμενο A1
 
@@ -56,13 +74,31 @@
 
 # Άσκηση γραμμής εντολών (warm up cli)
 
-Για την υλοποίηση αυτού του παραδοτέου σαν warm up έπελεξα να κάνω fetch τον weather για την Κέρκυρα και το Λονδίνο με την curl wttr.in για τον τοπικό καιρό και curl wttr.in/London για το Λονδίνο, όπως φαίνεται και στο [βίντεο](https://asciinema.org/a/jPaAUMbHAUillnYMyqOb9PhXM) που ανέβασα στο Asciinema.
+Για την υλοποίηση αυτού του παραδοτέου σαν warm up έπελεξα να κάνω fetch τον weather για την Κέρκυρα και το Λονδίνο με την βοήθεια της εντολής curl wttr.in για τον τοπικό καιρό και curl wttr.in/London για το Λονδίνο, όπως φαίνεται και στο [βίντεο](https://asciinema.org/a/jPaAUMbHAUillnYMyqOb9PhXM) που ανέβασα στο Asciinema.
+
+### Οδηγίες για χρήση της εντολής
+- Στην αρχή με την βοήθεια του pacman κατέβασα την εφαρμογή **wget**
+
+`` sudo pacman -S curl wget ``
+
+- Στην συνέχεια για να δούμε τον καιρό στην τοπική μας περιοχή
+
+`` curl wttr.in``
+
+- Τέλος για να δούμε τον καιρό σε άλλη περιοχή
+
+`` curl wttr.in/city ``
+
 
 ### Warmup
 - [Weather](https://asciinema.org/a/jPaAUMbHAUillnYMyqOb9PhXM)
 
+
+### Πηγή
+- [wttr.in](https://www.2daygeek.com/wttr-in-get-check-weather-forecast-details-command-line-linux/)
+
 # Συμμετοχικό περιεχόμενο A2
-Για την υλοποιήση αυτού του παραδοτέου χρησιμοποιήσα τα galleries μου από το Α1 και έφτιαξα ένα δικό μου slide για τα hanheld consoles και πρόσθεσα το gallery για το Nintendo DS. Επίσης χρησιμοποίησα το έτοιμο timeline των videogames και πρόσθεσα το gallery μου για το Counter Strike.
+Για την υλοποιήση αυτού του παραδοτέου χρησιμοποιήσα τα galleries μου από το Α1 και έφτιαξα ένα δικό μου slide για τα hanheld consoles στην αρχή αλλά με συνεννόηση με τον καθηγητή έφτιαξα μία νέα κατηγορία ["consoles"](https://melodic-malasada-eef077.netlify.app/slides/consoles/) και πρόσθεσα το gallery για το Nintendo DS. Επίσης χρησιμοποίησα το έτοιμο timeline των videogames και πρόσθεσα το gallery μου για το Counter Strike. 
 
 ### Netlify
 - [Slides](https://melodic-malasada-eef077.netlify.app/slides/consoles/)

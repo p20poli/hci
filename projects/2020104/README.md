@@ -65,8 +65,10 @@
 - [Counter Strike](https://github.com/A-ST4R/_gallery/blob/master/Counter-Strike.md)
 
 ### Images
-- [Nintendo](https://github.com/p20poli/images/blob/2020104/nintendo-DS-Fat-Blue-thumb.jpg)
-- [Counter Strike](https://github.com/p20poli/images/blob/2020104/Counter%20strike-Thumb.png)
+- [Nintendo](https://github.com/p20poli/images/blob/2020104/nintendo-DS-Fat-Blue.jpg)
+- [Nintendo thumb](https://github.com/p20poli/images/blob/2020104/nintendo-DS-Fat-Blue-thumb.jpg)
+- [Counter Strike](https://github.com/p20poli/images/blob/2020104/Counter_strike.png)
+- [Counter Strike thumb](https://github.com/p20poli/images/blob/2020104/Counter%20strike-Thumb.png)
 
 ### Netlify
 - [Nintendo](https://melodic-malasada-eef077.netlify.app/gallery/nintendo-ds-fat-blue/)

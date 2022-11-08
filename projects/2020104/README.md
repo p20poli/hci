@@ -27,7 +27,15 @@
 
 # Άσκηση γραμμής εντολών (linux install)
 
-Για την υπολοίηση αυτού του παραδοτέου, χρείαστηκαν δύο usb, το πρωτο usb για την εγκατάστη του iso και το δεύτερο έτσι ώστε να έχουμε ένα καθαρό μέσω αποθηκευτικού χώρο για να εγκαταστήσουμε το λογισμικό μας(Archlinux). Στην αρχή με την βοήθεια πάντα του [installation guide](https://wiki.archlinux.org/title/installation_guide) έγινε η σύνδεση στο διαδίκτυο και στην συνέχεια με την βοήθεια του reflector επιλέχτηκε ο κατάλληλος server.Στην συνέχεια φτιάχτηκαν τα particions και τα mounts. Αμέσως μετά έγινε ορισμός του time-zone και έγινε η εγκατάσταση βασικών πακέτων όπως το grub. Έπειτα έγινε η δημιουργεία χρηστών. Έτσι ολοκληρώθηκε η εγκατάσταση στο δεύτερο usb. Όταν συνδεθήκα στα ArchLinux έκανα εγκατάσταση κάποιον drivers έτσι ώστε να είναι εφικτή η σύνδεση του usb και σε άλλους υπολογιστές και τέλος έγινε η εγκατάσταση του asciinema και η σύνδεση με τον λογαριασμό μου σε αυτό. Τέλος έκανα χρήση της εντολής Neofetch και Journalctl -b | less.Όπως μπορούμε να δούμε και στο βίντεο παρακάτω:
+Για την υπολοίηση αυτού του παραδοτέου, χρείαστηκαν δύο usb, το πρωτο usb για την εγκατάστη του [iso](https://archlinux.org/download/) και έκανα bootable το στικάκη με την βοήθεια του [Rufus](https://wiki.archlinux.org/title/USB_flash_installation_medium#Using_Rufus). Στην συνέχεια χρησιμοποίησα ένα δεύτερο στικάκη έτσι ώστε να έχουμε ένα καθαρό μέσω αποθηκευτικού χώρο για να εγκαταστήσουμε το λογισμικό μας(Archlinux). Στην αρχή με την βοήθεια πάντα του [installation guide](https://wiki.archlinux.org/title/installation_guide) έγινε η σύνδεση στο διαδίκτυο και στην συνέχεια με την βοήθεια του reflector επιλέχτηκε ο κατάλληλος server.Στην συνέχεια φτιάχτηκαν τα particions και τα mounts. Αμέσως μετά έγινε ορισμός του time-zone και έγινε η εγκατάσταση βασικών πακέτων όπως το grub. Έπειτα έγινε η δημιουργεία χρηστών. Έτσι ολοκληρώθηκε η εγκατάσταση στο δεύτερο usb. 
+
+
+
+
+Όταν συνδεθήκα στα ArchLinux έκανα εγκατάσταση κάποιον drivers έτσι ώστε να είναι εφικτή η σύνδεση του usb και σε άλλους υπολογιστές και τέλος έγινε η εγκατάσταση του asciinema και η σύνδεση με τον λογαριασμό μου σε αυτό. Τέλος έκανα χρήση της εντολής Neofetch και Journalctl -b | less.Όπως μπορούμε να δούμε και στο βίντεο παρακάτω:
+
+### Warm ups
+- [Neofetch και Jounalctl/Archiinema](https://asciinema.org/a/l12hHcRl2uGWDMPsfyHWqxTsc)
 
 Το neofetch χρησιμοποιείται για να δείξει πληροφορίες για το σύστημα μας ενώ το journalctl είναι μία εντολή η οποία δείχνει τις διαστηριότητες του journald, οπού είναι μία υπηρεσία σύνδεσης στο σύστημα.
 
@@ -45,12 +53,8 @@
 
 - Για να εκτελέσουμε την εντολή κανουμε ``journalctl -b | less `` όπου το `` -b `` χρησιμοποιείται για να μην καταγράψη όλα τα δεδομένα που φαίνονται
 
-### Warm ups
-- [Neofetch και Jounalctl](https://asciinema.org/a/l12hHcRl2uGWDMPsfyHWqxTsc)
-
 ### Πηγες
 - [Arch Linux](https://wiki.archlinux.org/)
-- [Arch Linux on a USB](https://www.youtube.com/watch?v=yaThYGr37DI&t=1241s)
 - [Neofetch](https://archlinux.org/packages/community/any/neofetch/)
 - [Journalctl](https://www.loggly.com/ultimate-guide/using-journalctl/)
 
@@ -93,7 +97,7 @@
 
 
 ### Warmup
-- [Weather](https://asciinema.org/a/jPaAUMbHAUillnYMyqOb9PhXM)
+- [Weather/Asciinema](https://asciinema.org/a/jPaAUMbHAUillnYMyqOb9PhXM)
 
 
 ### Πηγή

@@ -2,7 +2,7 @@
 #### ΑΜ: Π2020104
 #### Github Profile: [P20poli](https://github.com/p20poli)
 #### Netlify Site: [Site](https://melodic-malasada-eef077.netlify.app/)
-#### Organazation :[A-St4r](https://github.com/A-ST4R)
+#### Organization :[A-St4r](https://github.com/A-ST4R)
 
 | Εβδομάδα | Παραδοτέα | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |

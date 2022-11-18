@@ -104,7 +104,7 @@
 - [wttr.in](https://www.2daygeek.com/wttr-in-get-check-weather-forecast-details-command-line-linux/)
 
 # Συμμετοχικό περιεχόμενο A2
-Για την υλοποιήση αυτού του παραδοτέου χρησιμοποιήσα τα galleries μου από το Α1 και έφτιαξα ένα δικό μου slide για τα hanheld consoles στην αρχή αλλά με συνεννόηση με τον καθηγητή έφτιαξα μία νέα κατηγορία ["gaming consoles"](https://melodic-malasada-eef077.netlify.app/slides/gaming_consoles/) και πρόσθεσα το gallery για το Nintendo 64 και το Nintendo Entertainment System. Επίσης χρησιμοποίησα το έτοιμο timeline των consoles και τα πρόσθεσα και εκεί. 
+Για την υλοποιήση αυτού του παραδοτέου χρησιμοποιήσα τα galleries μου από το Α1 και έφτιαξα ένα δικό μου slide για τα hanheld consoles στην αρχή αλλά με συνεννόηση με τον καθηγητή έφτιαξα μία νέα κατηγορία ["gaming consoles"](https://github.com/p20poli/site/blob/2020104/_slides/gaming_consoles.md) και πρόσθεσα το gallery για το Nintendo 64 και το Nintendo Entertainment System. Επίσης χρησιμοποίησα το έτοιμο timeline των consoles και τα πρόσθεσα και εκεί. 
 
 ### Netlify
 - [Slides](https://github.com/p20poli/site/blob/2020104/_slides/gaming_consoles.md)

@@ -1,7 +1,7 @@
 #### Ονοματεπώνυμο: Σπυρίδων Πολίτης
 #### ΑΜ: Π2020104
 #### Github Profile: [P20poli](https://github.com/p20poli)
-#### Netlify Site: [Site](https://melodic-malasada-eef077.netlify.app/)
+#### Netlify Site: [Site](https://melodic-mandazi-56e95b.netlify.app/)
 #### Organization :[A-St4r](https://github.com/A-ST4R)
 
 | Εβδομάδα | Παραδοτέα | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση |
@@ -60,23 +60,23 @@
 
 # Συμμετοχικό περιεχόμενο A1
 
-Για την υπολοίηση αυτού του παραδοτέου έπελεξα να ασχοληθώ με κινητές παιχνιδομηχανές και βιντεοπαιχνίδια όπως το Counter Strike διότι πιστεύω ότι οι κινητές παιχνιδομηχανές([Nintendo](https://github.com/A-ST4R/_gallery/blob/master/nintendo-DS-Fat-Blue.md)) και τα βιντεοπαιχνίδια([Counter Strike](https://github.com/A-ST4R/_gallery/blob/master/Counter-Strike.md)) μας φέρνουν διασκέδαση,μας χαλαρώνουν κάνοντας μας να περνάμε ευχάριστα τον χρόνο μας και εννοείται πως χωρίς την μία δεν θα υπήρχε η άλλη. Επίσης για πολλούς ανθρώπους τα δύο συγκεκριμένα πράγματα(Nintendo και Counter Strike) φέρνουν νοσταλγία γιάτι πολλοί μεγαλώσαμε με αυτά. 
+Για την υπολοίηση αυτού του παραδοτέου έπελεξα να ασχοληθώ με την διεπαφή και την διάδραση του χρήστη σε συνδυασμό με κονσόλες και σύνδεσα δύο κονσόλες της εταιρείας Nintendo, την κονσόλα "Nintendo Entertainment System"(NES) όπου είχε 2d γραφικά σαν διεπάφη και το χειριστήριο της περιήχε μόνο directional pad για την διάδραση του παίκτη με αυτήν σε αντίθεση με την κονσόλα "Nintendo 64" όπου είχε περιήχε 3d διεπάφη με την προσθήκη εκτός του directional pad ένα stick για την κίνηση της κάμερας.
 
-Άφου διάλεξα τα θέματα αυτά βρήκα φωτογραφίες γι αυτές τις κατηγορίες τις ανέβασα στον φάκελο [images](https://github.com/p20poli/images/tree/2020104) και έφτιαξα τα galleries στον [φάκελο](https://github.com/p20poli/_gallery/tree/2020104) αυτό γι αυτά τα δύο θέματα και τα ανέβασα στο [site](https://app.netlify.com/sites/melodic-malasada-eef077/overview) του netlify όπου φτιάξαμε και συνδέσαμε με το [repository](https://github.com/A-ST4R/site) της ομάδας μέσω του terminal με την ομάδα.
+Άφου διάλεξα τα θέματα αυτά βρήκα φωτογραφίες γι αυτές τις κατηγορίες τις ανέβασα στον φάκελο [images](https://github.com/p20poli/images/tree/2020104) και έφτιαξα τα galleries στον [φάκελο](https://github.com/p20poli/_gallery/tree/2020104) αυτό γι αυτά τα δύο θέματα και τα ανέβασα στο [site](https://melodic-mandazi-56e95b.netlify.app/) του netlify όπου φτιάξαμε και συνδέσαμε με το [repository](https://github.com/A-ST4R/site) της ομάδας μέσω του terminal με την ομάδα.
 
 ### Galleries:
-- [Nintendo](https://github.com/A-ST4R/_gallery/blob/master/nintendo-DS-Fat-Blue.md)
-- [Counter Strike](https://github.com/A-ST4R/_gallery/blob/master/Counter-Strike.md)
+- [Nintendo Entertainment System](https://github.com/p20poli/_gallery/blob/2020104/n_e_s.md)
+- [Nintendo64](https://github.com/p20poli/_gallery/blob/2020104/nintendo64.md)
 
 ### Images
-- [Nintendo](https://github.com/p20poli/images/blob/2020104/nintendo-DS-Fat-Blue.jpg)
-- [Nintendo thumb](https://github.com/p20poli/images/blob/2020104/nintendo-DS-Fat-Blue-thumb.jpg)
-- [Counter Strike](https://github.com/p20poli/images/blob/2020104/Counter_strike.png)
-- [Counter Strike thumb](https://github.com/p20poli/images/blob/2020104/Counter%20strike-Thumb.png)
+- [Nintendo Entertainment System]()
+- [Nintendo Entertainment System thumb]()
+- [Counter Strike](https://github.com/p20poli/images/blob/2020104/nintendo64.jpg)
+- [Counter Strike thumb](https://github.com/p20poli/images/blob/2020104/nintendo64-thumb.jpg)
 
 ### Netlify
-- [Nintendo](https://melodic-malasada-eef077.netlify.app/gallery/nintendo-ds-fat-blue/)
-- [Counter Strike](https://melodic-malasada-eef077.netlify.app/gallery/counter-strike/)
+- [Nintendo Entertainment System]()
+- [Nintendo64](https://melodic-mandazi-56e95b.netlify.app/gallery/nintendo64/)
 
 # Άσκηση γραμμής εντολών (warm up cli)
 
@@ -104,8 +104,8 @@
 - [wttr.in](https://www.2daygeek.com/wttr-in-get-check-weather-forecast-details-command-line-linux/)
 
 # Συμμετοχικό περιεχόμενο A2
-Για την υλοποιήση αυτού του παραδοτέου χρησιμοποιήσα τα galleries μου από το Α1 και έφτιαξα ένα δικό μου slide για τα hanheld consoles στην αρχή αλλά με συνεννόηση με τον καθηγητή έφτιαξα μία νέα κατηγορία ["consoles"](https://melodic-malasada-eef077.netlify.app/slides/consoles/) και πρόσθεσα το gallery για το Nintendo DS. Επίσης χρησιμοποίησα το έτοιμο timeline των videogames και πρόσθεσα το gallery μου για το Counter Strike. 
+Για την υλοποιήση αυτού του παραδοτέου χρησιμοποιήσα τα galleries μου από το Α1 και έφτιαξα ένα δικό μου slide για τα hanheld consoles στην αρχή αλλά με συνεννόηση με τον καθηγητή έφτιαξα μία νέα κατηγορία ["gaming consoles"](https://melodic-malasada-eef077.netlify.app/slides/gaming_consoles/) και πρόσθεσα το gallery για το Nintendo 64 και το Nintendo Entertainment System. Επίσης χρησιμοποίησα το έτοιμο timeline των consoles και τα πρόσθεσα και εκεί. 
 
 ### Netlify
-- [Slides](https://melodic-malasada-eef077.netlify.app/slides/consoles/)
-- [Timeline](https://melodic-malasada-eef077.netlify.app/timeline/videogames/)
+- [Slides](https://github.com/p20poli/site/blob/2020104/_slides/gaming_consoles.md)
+- [Timeline](https://github.com/p20poli/site/blob/2020104/_timeline/consoles.md)

@@ -10,7 +10,7 @@
 | 3 | [Συμμετοχικό περιεχόμενο A1](https://github.com/p20poli/hci/blob/2020104/projects/2020104/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1) |[Συμμετοχικό περιεχόμενο discussions](https://github.com/courses-ionio/help/discussions/1239) | |
 | 4 | [Άσκηση γραμμής εντολών(warm up cli)](https://github.com/p20poli/hci/blob/2020104/projects/2020104/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-warm-up-cli) |[Weather check](https://github.com/courses-ionio/help/discussions/1284) | |
 | 5 | [Συμμετοχικό περιεχόμενο A2](https://github.com/p20poli/hci/blob/2020104/projects/2020104/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a2) | [Συμμετοχικό περιεχόμενο discussions](https://github.com/courses-ionio/help/discussions/1434)| |
-| 6 | [Κατασκευή του βιβλίου Α](https://github.com/p20poli/hci/blob/2020104/projects/2020104/README.md#%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE-%CF%84%CE%BF%CF%85-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CF%85-%CE%B1) | | |
+| 6 | [Κατασκευή του βιβλίου Α](https://github.com/p20poli/hci/blob/2020104/projects/2020104/README.md#%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE-%CF%84%CE%BF%CF%85-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CF%85-%CE%B1) | [Κατασκεή του βιβλιού discussion](https://github.com/courses-ionio/help/discussions/1728) | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |

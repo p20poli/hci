@@ -1,7 +1,6 @@
 #### Ονοματεπώνυμο: Σπυρίδων Πολίτης
 #### ΑΜ: Π2020104
 #### Github Profile: [P20poli](https://github.com/p20poli)
-#### Netlify Site: [Site](https://melodic-mandazi-56e95b.netlify.app/)
 #### Organization :[A-St4r](https://github.com/A-ST4R)
 
 | Εβδομάδα | Παραδοτέα | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση |
@@ -65,7 +64,7 @@
 Άφου διάλεξα τα θέματα αυτά βρήκα φωτογραφίες γι αυτές τις κατηγορίες τις ανέβασα στον φάκελο [images](https://github.com/p20poli/images/tree/2020104) και έφτιαξα τα galleries στον [φάκελο](https://github.com/p20poli/_gallery/tree/2020104) αυτό γι αυτά τα δύο θέματα και τα ανέβασα στο [site](https://melodic-mandazi-56e95b.netlify.app/) του netlify όπου φτιάξαμε και συνδέσαμε με το [repository](https://github.com/A-ST4R/site) της ομάδας μέσω του terminal με την ομάδα.
 
 ### Galleries:
-- [Nintendo Entertainment System](https://github.com/p20poli/_gallery/blob/2020104/n_e_s.md)
+- [Nintendo Entertainment System](https://github.com/A-ST4R/_gallery/blob/master/NintendoEntertainmentSystem.md)
 - [Nintendo64](https://github.com/p20poli/_gallery/blob/2020104/nintendo64.md)
 
 ### Images
@@ -76,7 +75,7 @@
 
 ### Netlify
 - [Nintendo Entertainment System]()
-- [Nintendo64](https://melodic-mandazi-56e95b.netlify.app/gallery/nintendo64/)
+- [Nintendo64]()
 
 # Άσκηση γραμμής εντολών (warm up cli)
 
@@ -106,6 +105,15 @@
 # Συμμετοχικό περιεχόμενο A2
 Για την υλοποιήση αυτού του παραδοτέου χρησιμοποιήσα τα galleries μου από το Α1 και έφτιαξα ένα δικό μου slide για τα hanheld consoles στην αρχή αλλά με συνεννόηση με τον καθηγητή έφτιαξα μία νέα κατηγορία ["gaming consoles"](https://github.com/p20poli/site/blob/2020104/_slides/gaming_consoles.md) και πρόσθεσα το gallery για το Nintendo 64 και το Nintendo Entertainment System. Επίσης χρησιμοποίησα το έτοιμο timeline των consoles και τα πρόσθεσα και εκεί. 
 
+### Github
+- [Slides]()
+- [Timeline]()
+
 ### Netlify
 - [Slides]()
 - [Timeline]()
+
+# Κατασκευή του βιβλίου Α
+
+- md αρχείο:[Interface](https://github.com/p20poli/kallipos/blob/master/MyEdit/Inteface.md)
+- Lua:Myfilter:[MyFilter](https://github.com/p20poli/kallipos/blob/master/MyFilter.lua)

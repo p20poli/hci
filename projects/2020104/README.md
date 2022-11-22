@@ -106,14 +106,17 @@
 Για την υλοποιήση αυτού του παραδοτέου χρησιμοποιήσα τα galleries μου από το Α1 και έφτιαξα ένα δικό μου slide για τα hanheld consoles στην αρχή αλλά με συνεννόηση με τον καθηγητή έφτιαξα μία νέα κατηγορία ["gaming consoles"](https://github.com/p20poli/site/blob/2020104/_slides/gaming_consoles.md) και πρόσθεσα το gallery για το Nintendo 64 και το Nintendo Entertainment System. Επίσης χρησιμοποίησα το έτοιμο timeline των consoles και τα πρόσθεσα και εκεί. 
 
 ### Github
-- [Slides]()
-- [Timeline]()
+- [Slides](https://github.com/p20poli/site/blob/2020104/_slides/gamingConsoles.md)
+- [Timeline](https://github.com/p20poli/site/blob/2020104/_timeline/consoles.md)
 
 ### Netlify
 - [Slides]()
 - [Timeline]()
 
 # Κατασκευή του βιβλίου Α
+Σύμφωνα με τις οδηγείες και με την βοήθεια του Guide στις συζητήσεις κατάφερα να φτιάξω ένα αρχείο md όπου πρόσθεσα στην κατηγορία:τεχνολογίες και μίλησα για την εξέλιξη των κονσολών, όπως και για την μετάβαση από το 2d σε 3d. Επίσης έφτιαξα το filter στην Lua. Στην συνέχεια θα φτιάξω το pdf. Αντιμετωπίζω ακόμα ένα πρόβλημα με αυτό το οποιό προσπαθώ να επιλύσω.
 
 - md αρχείο:[Interface](https://github.com/p20poli/kallipos/blob/master/MyEdit/Inteface.md)
 - Lua:Myfilter:[MyFilter](https://github.com/p20poli/kallipos/blob/master/MyFilter.lua)
+
+

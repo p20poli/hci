@@ -68,10 +68,10 @@
 - [Nintendo64](https://github.com/p20poli/_gallery/blob/2020104/nintendo64.md)
 
 ### Images
-- [Nintendo Entertainment System]()
-- [Nintendo Entertainment System thumb]()
-- [Counter Strike](https://github.com/p20poli/images/blob/2020104/nintendo64.jpg)
-- [Counter Strike thumb](https://github.com/p20poli/images/blob/2020104/nintendo64-thumb.jpg)
+- [Nintendo Entertainment System](https://github.com/p20poli/images/blob/2020104/NintendoEntertainmentSystem.png)
+- [Nintendo Entertainment System thumb](https://github.com/p20poli/images/blob/2020104/NintendoEntertainmentSystem-thumb.png)
+- [Nintendo64](https://github.com/p20poli/images/blob/2020104/nintendo64.jpg)
+- [Nintendo64 thumb](https://github.com/p20poli/images/blob/2020104/nintendo64-thumb.jpg)
 
 ### Netlify
 - [Nintendo Entertainment System]()

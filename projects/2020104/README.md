@@ -111,7 +111,7 @@
 - [Timeline](https://github.com/p20poli/site/blob/2020104/_timeline/consoles.md)
 
 ### Netlify
-- [Slides]()
+- [Slides](https://cosmic-mandazi-605d70.netlify.app/slides/gamingconsoles/)
 - [Timeline]()
 
 # Κατασκευή του βιβλίου Α

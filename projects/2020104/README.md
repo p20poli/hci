@@ -75,8 +75,8 @@
 - [Nintendo64 thumb](https://github.com/p20poli/images/blob/2020104/nintendo64-thumb.jpg)
 
 ### Netlify
-- [Nintendo Entertainment System]()
-- [Nintendo64]()
+- [Nintendo Entertainment System](https://cosmic-mandazi-605d70.netlify.app/gallery/nintendoentertainmentsystem/)
+- [Nintendo64](https://cosmic-mandazi-605d70.netlify.app/gallery/nintendo64/)
 
 # Άσκηση γραμμής εντολών (warm up cli)
 
